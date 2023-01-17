@@ -1,3 +1,3 @@
 # svt-softtok
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/sveltejs-kit-template-default-lfd9of)
+[https://www.fiverr.com/creativitas/create-your-website-with-new-technology](https://www.fiverr.com/creativitas/create-your-website-with-new-technology)
