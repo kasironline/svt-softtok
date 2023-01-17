@@ -1,0 +1,30 @@
+[
+	{
+		"id": "1",
+		"title": "Desktop Software",
+		"description": "Software program toko kasir penjualan lengkap offline mode full version proses installasi dilakukan pada perangkat yang digunakan seperti implementasi ke mesin kasir ,komputer kasir, laptop dan lain sebagai nya.",
+		"image": "https://mesinkasir.github.io/img/thumb/programtoko%20(3).webp",
+		"link": "/desktop"
+	},
+	{
+		"id": "2",
+		"title": "Update Cloud Version",
+		"image": "https://mesinkasir.github.io/assets/img/thumb/toko14.webp",
+		"description": "Kebutuhan untuk melakukan update version dari desktop mode ke cloud version dengan intergasi cloud database dalam bekerja, dan sudah include dengan web admin panel untuk kemudahan owner cek laporan dimana saja via berbagai device seperti smartphone dan laptop secara real time online.",
+		"link": "/cloud"
+	},
+	{
+		"id": "3",
+		"title": "Full Web App",
+		"image": "https://posx.axcora.com/assets/img/aplikasi%20toko%20online%20web%20app.webp",
+		"description": "Alternatif aplikasi kasir toko dengan full online mode terintegrasi website dan dengan koneksi berbagai teknologi untuk kebutuhan mendukung mobilitas secara penuh dalam bekerja, dan sudah include content management system untuk kebutuhan dalam membuat website sesuai dengan kreasi sendiri.",
+		"link": "/app"
+	},
+	{
+		"id": "4",
+		"title": "Mesin Kasir",
+		"image": "https://posx.axcora.com/assets/img/TOUCHSCREEN6.webp",
+		"description": "Paket lengkap perangkat mesin kasir untuk digunakan dalam bekerja, sudah termasuk installasi dan setting dengan kemudahan plug and play dan hardware mesin kasir sudah siap untuk digunakan menunjang bisnis usaha minimarket dan toko.",
+		"link": "/pos"
+	}
+]

@@ -1,0 +1,23 @@
+{
+	"title": "Tata Cara Order Software Toko",
+	"description": "Melakukan transaksi order dan pembelian software toko",
+	"url": "https://softwaretoko.axcora.com/order",
+
+	"desktoptitle": "Software Toko Desktop",
+	"desktop": "Software Desktop order per licensi per installasi per device perangkat. Server version untuk aplikasi wajib sebagai pemegang data, selanjutnya untuk penambahan dapat melakukan order client version dalam bekerja.",
+	"desktoplink": "https://app.midtrans.com/payment-links/Chrom-Desktop",
+
+	"cloudtitle": "Update Online",
+	"cloud": "Cloud version adalah fitur update ke online mode dengan menggunakan desktop version software terintegrasi cloud database dan web app panel, include dengan backend admin panel cloud web app plus website. untuk kemudahan owner cek laporan secara real time online.",
+	"cloudlink": "https://app.midtrans.com/payment-links/Chrom-Cloud",
+
+	"apptitle": "Pilih Web App",
+	"applink": "/app",
+	"app": "Applikasi kasir toko online adalah alternatif penggunaan software toko versi online dengan full instalasi app dan database dilakukan secara cloud langsung, plus dukungan penuh integrasi dengan berbagai technology termasuk website cms content management system, aplikasi android informasi dan whatsapp online order.",
+
+	"postitle": "Pilih Mesin Kasir",
+	"poslink": "/pos",
+	"pos": "POS Point of sale hardware produk paket mesin kasir lengkap sudah termasuk installasi dan setting plus injeksi program toko , software toko untuk bekerja, dengan hardware pilihan dan modern technology all in one touchscreen untuk digunakan terintegrasi penuh dengan perangkat peralatan kasir.",
+
+	"cover": "https://mesinkasir.github.io/img/thumb/programtoko%20(3).webp"
+}

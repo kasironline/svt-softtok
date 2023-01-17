@@ -1,0 +1,23 @@
+[
+	{
+		"id": "1",
+		"title": "Aplikasi Toko POS-X",
+		"image": "https://posx.axcora.com/assets/img/aplikasi%20toko%20online%20web%20app.webp",
+		"description": "POS-X Web app memberikan kemudahan dalam bekerja, dengan fitur yang lengkap dan tentunya sangat simple sehingga menjadikan nya best seller pada kategori point of sale cloud atau aplikasi kasir online untuk digunakan, dan bukan sekedar aplikasi biasa tetapi juga hadir website dengan content management system di dalam nya, inilah era modern applikasi kasir terintegrasi website di mulai dengan pos-x.",
+		"link": "https://posx.axcora.com/"
+	},
+	{
+		"id": "2",
+		"title": "Aplikasi Toko Lava App",
+		"image": "https://lava.axcora.com/img/aplikasikasirtokogrosirretail.webp",
+		"description": "Sempurnakan kebutuhan penjualan grosir dan eceran dengan menggunakan lava web app , dengan kemampuan secara penuh digunakan dalam mencatat pembukuan, maupun melakukan penjualan kasir dengan harga grosir dan eceran, dan tentu saja sudah include dengan inventori persediaan stok barang serta laporan detail nya, bukan hanya itu kamu juga mendapatkan website yang bisa kamu ubah pada dashboard web admin lava web app untuk digunakan.",
+		"link": "https://lava.axcora.com/"
+	},
+	{
+		"id": "3",
+		"title": "Aplikasi Toko Robopos",
+		"image": "https://robopos.axcora.com/img/aplikasi%20toko%20kasir%20online%20shop%20(2).webp",
+		"description": "Robopos menyempurnakan kebutuhan untuk full online system dalam bekerja, dengan kelengkapan fitur yang digunakan dalam menunjang pembukuan dan transaksi baik pembelian maupun penjualan dengan metode invoice, ataupun struk kasir , plus rangkuman laporan detail dan keuangan menjadikan nya pilihan tepat untuk aplikasi kasir toko solusi lengkap, dan bukan hanya terintegrasi dengan website saja, tetapi juga include dengan toko online shop untuk kemudahan handle order pelanggan via toko online shop website mu dalam satu app bersama robopos.",
+		"link": "https://robopos.axcora.com/"
+	}
+]

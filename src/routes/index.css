@@ -1,0 +1,44 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	margin: auto;
+	max-width: 50ch;
+	text-align: left;
+}
+.app {
+	background-color: white;
+}
+.slim {
+	font-size: 10px;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+.fixed {
+	background-color: white;
+	height: 450px;
+	overflow-y: scroll;
+	overflow-x: hidden;
+}
+.footer {
+	bottom: 0;
+}
+h1 {
+	font-size: 26px;
+	font-weight: bold;
+}
+h2 {
+	font-size: 21px;
+	font-weight: bold;
+}
+h3 {
+	font-size: 19px;
+	font-weight: bold;
+}
+p,
+code,
+.nav-link {
+	font-size: 12px;
+}

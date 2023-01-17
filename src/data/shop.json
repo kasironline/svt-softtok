@@ -1,0 +1,37 @@
+[
+	{
+		"id": "1",
+		"title": "Desktop Software",
+		"description": "Software program toko kasir penjualan lengkap dengan offline mode full version",
+		"image": "https://mesinkasir.github.io/img/thumb/programtoko%20(3).webp",
+		"link": "https://app.midtrans.com/payment-links/Chrom-Desktop"
+	},
+	{
+		"id": "2",
+		"title": "Cloud App",
+		"image": "https://mesinkasir.github.io/assets/img/thumb/toko14.webp",
+		"description": "Update versi dari desktop mode ke cloud version dengan web admin panel dan website integrasi.",
+		"link": "https://app.midtrans.com/payment-links/Chrom-Cloud"
+	},
+	{
+		"id": "3",
+		"title": "POS-X Web App",
+		"image": "https://posx.axcora.com/assets/img/aplikasi%20toko%20online%20web%20app.webp",
+		"description": "Alternatif aplikasi kasir toko dengan full online mode terintegrasi website POS-X mudah digunakan dan lengkap.",
+		"link": "https://app.midtrans.com/payment-links/pos-x-std"
+	},
+	{
+		"id": "4",
+		"title": "Lava App",
+		"image": "https://lava.axcora.com/img/aplikasikasirtokogrosirretail.webp",
+		"description": "Aplikasi toko kasir penjualan grosir dan eceran berbasis full online mode dalam digunakan.",
+		"link": "https://app.midtrans.com/payment-links/LAVA-STD"
+	},
+	{
+		"id": "5",
+		"title": "Robopos App",
+		"image": "https://robopos.axcora.com/img/aplikasi%20toko%20kasir%20online%20shop%20(2).webp",
+		"description": "Aplikasi toko kasir penjualan grosir dan eceran berbasis full online mode dalam digunakan.",
+		"link": "https://app.midtrans.com/payment-links/robopos-standard"
+	}
+]
