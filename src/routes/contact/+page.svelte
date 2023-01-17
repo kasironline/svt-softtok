@@ -23,7 +23,7 @@
 
 <h1><strong><a href={data.url}>{data.title}</a></strong></h1>
   <h2>{data.description}</h2>
-<form action="https://airform.io/axcora@email.com" method="post">
+<form action="https://airform.io/axcora@gmail.com" method="post">
   <input class="form-control p-1 mt-1 mb-1" type="text" name="name" placeholder="Whatsapp & Nama">
   <textarea class="form-control p-1 mt-1 mb-1" name="message" placeholder="Masukan Pesan"></textarea>
   <button class="btn btn-dark mt-1 ">Kirim pesan</button>
